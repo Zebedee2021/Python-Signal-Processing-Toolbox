@@ -1,5 +1,5 @@
-# Python 信号处理工具箱 - PySPT
-## Python Signal Processing Toolbox
+# Python 信号处理工具箱
+## Python Signal Processing Toolbox - PySPT
 
 > 信号处理是从信号抽取出有用信息的过程，包括：提取、变换、分析、综合等处理过程。随着数字计算机的飞速发展，信号处理的理论和方法也得以发展，出现了不受物理制约的纯数学的加工，即算法，并确立了信号处理的领域。
 ***
